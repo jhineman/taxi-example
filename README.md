@@ -1,5 +1,5 @@
 # taxi-example
-This repository provides a collection of examples used to support STOR 674.
+This repository provides a collection of examples used to support STOR 674. *This repository is for teaching (lectures) and learning --- not everything is meant to be perfect!*
 
 ## file listing
 
